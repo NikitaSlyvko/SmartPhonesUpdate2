@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">SmartPhonesUpdate</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="alert_button_exit">Exit</string>
+    <string name="alert_button_music">Music list</string>
+    <string name="alert_button_dialogue">About</string>
+    <string name="alert_button_custom">Version</string>
+
+
+    <string name="about_me">Nikita Slivko \n Junior Android Developer</string>
+
+    <string-array name="smartphones">
+        <item>Google Pixel</item>
+        <item>HTC 10</item>
+        <item>iPhone 7</item>
+        <item>iPhone 7 Plus</item>
+        <item>LG G5</item>
+        <item>Motorola Moto Z</item>
+        <item>Moto Z PLAY</item>
+        <item>ONEPLUS 3T</item>
+        <item>Samsung Galaxy S7</item>
+        <item>Samsung Galaxy S7 Edge</item>
+    </string-array>
+
+    <string-array name="google_descriptions">
+        <item>Weight: 143g</item>
+        <item>Dimensions: 143.8 x 69.5 x 8.5mm</item>
+        <item>OS: Android 7.1</item>
+        <item>Screen size: 5-inch</item>
+        <item>Resolution: 1080 x 1920</item>
+        <item>CPU: Snapdragon 821</item>
+        <item>RAM: 4GB</item>
+        <item>Storage: 32/128GB</item>
+        <item>Battery: 2770mAh</item>
+        <item>Rear camera: 12MP</item>
+        <item>Front camera: 8MP</item>
+    </string-array>
+
+    <string-array name="htc_descriptions">
+        <item>Weight: 161g</item>
+        <item>Dimensions: 145.9 x 71.9 x 9 mm</item>
+        <item>OS: Android Marshmallow</item>
+        <item>Screen size: 5.2-inch</item>
+        <item>Resolution: 1440 x 2560</item>
+        <item>CPU: Snapdragon 820</item>
+        <item>RAM: 4GB</item>
+        <item>Storage: 32GB</item>
+        <item>Battery: 3000mAh</item>
+        <item>Rear camera: 12MP</item>
+        <item>Front camera: 5MP</item>
+    </string-array>
+
+    <string-array name="iphone_descriptions">
+        <item>Weight: 138g</item>
+        <item>Dimensions: 138.3 x 67.1 x 7.1mm</item>
+        <item>OS: iOS 10</item>
+        <item>Screen size: 4.7-inch</item>
+        <item>Resolution: 750 x 1334</item>
+        <item>CPU: Apple A10 Fusion</item>
+        <item>RAM: 2GB</item>
+        <item>Storage: 32/128/256GB</item>
+        <item>Battery: 1960mAh</item>
+        <item>Rear camera: 12MP</item>
+        <item>Front camera: 7MP</item>
+    </string-array>
+
+    <string-array name="iphoneplus_descriptions">
+        <item>Weight: 188g</item>
+        <item>Dimensions: 158.2 x 77.9 x 7.3mm</item>
+        <item>OS: iOS 10</item>
+        <item>Screen size: 5.5-inch</item>
+        <item>Resolution: 1080 x 1920</item>
+        <item>CPU: A10 Fusion</item>
+        <item>RAM: 3GB</item>
+        <item>Storage: 32/128/256GB</item>
+        <item>Battery: 2900mAh</item>
+        <item>Rear camera: 12MP+12MP</item>
+        <item>Front camera: 7MP</item>
+    </string-array>
+
+    <string-array name="lgg5_descriptions">
+        <item>Weight: 159g</item>
+        <item>Dimensions: 149.4 x 73.9 x 7.7 mm</item>
+        <item>OS: Android Marshmallow</item>
+        <item>Screen size: 5.3-inch</item>
+        <item>Resolution: 2560 x 1440</item>
+        <item>CPU: value</item>
+        <item>RAM: 4GB</item>
+        <item>Storage: 32GB</item>
+        <item>Battery: 2800mAh</item>
+        <item>Rear camera: 16MP</item>
+        <item>Front camera: 8MP</item>
+    </string-array>
+
+    <string-array name="motorola_descriptions">
+        <item>Weight: 136g</item>
+        <item>Dimensions: 153.3 x 75.3 x 5.2 mm</item>
+        <item>OS: Android Marshmallow</item>
+        <item>Screen size: 5.5-inch</item>
+        <item>Resolution: 1440 x 2560</item>
+        <item>CPU: Snapdragon 820</item>
+        <item>RAM: 4GB</item>
+        <item>Storage: 32/64GB</item>
+        <item>Battery: 2600mAh</item>
+        <item>Rear camera: 13MP</item>
+        <item>Front camera: 5MP</item>
+    </string-array>
+
+    <string-array name="motoz_descriptions">
+        <item>Weight: 165g</item>
+        <item>Dimensions: 156.4 x 76.4 x 7 mm</item>
+        <item>OS: Android 6</item>
+        <item>Screen size: 5.5-inch</item>
+        <item>Resolution: 1080 x 1920 pixels</item>
+        <item>CPU: Snapdragon 625</item>
+        <item>RAM: 3GB</item>
+        <item>Storage: 32GB + microSD</item>
+        <item>Battery: 3510mAh</item>
+        <item>Rear camera: 16MP</item>
+        <item>Front camera: 5MP</item>
+    </string-array>
+
+    <string-array name="oneplus_descriptions">
+        <item>Weight: 158g</item>
+        <item>Dimensions: 152.7 x 74.7 x 7.4 mm</item>
+        <item>OS: Android Marshmallow</item>
+        <item>Screen size: 5.5-inch</item>
+        <item>Resolution: 1080 x 1920</item>
+        <item>CPU: Snapdragon 821</item>
+        <item>RAM: 6GB</item>
+        <item>Storage: 64GB/128GB</item>
+        <item>Battery: 3400mAh</item>
+        <item>Rear camera: 16MP</item>
+        <item>Front camera: 16MP</item>
+    </string-array>
+
+    <string-array name="samsung_descriptions">
+        <item>Weight: 152g</item>
+        <item>Dimensions: 142.4 x 69.6 x 7.9 mm</item>
+        <item>OS: Android Marshmallow</item>
+        <item>Screen size: 5.1-inch</item>
+        <item>Resolution: 1440 x 2560</item>
+        <item>CPU: Exynos 8890</item>
+        <item>RAM: 4GB</item>
+        <item>Storage: 32GB/64GB</item>
+        <item>Battery: 3000mAh</item>
+        <item>Rear camera: 12MP</item>
+        <item>Front camera: 5MP</item>
+    </string-array>
+
+    <string-array name="samsungedge_descriptions">
+        <item>Weight: 157g</item>
+        <item>Dimensions: 150.9 x 72.6 x 7.7 mm</item>
+        <item>OS: Android Marshmallow</item>
+        <item>Screen size: 5.5-inch</item>
+        <item>Resolution: 1440 x 2560</item>
+        <item>CPU: Exynos 8890</item>
+        <item>RAM: 4GB</item>
+        <item>Storage: 32GB/64GB</item>
+        <item>Battery: 3600mAh</item>
+        <item>Rear camera: 12MP</item>
+        <item>Front camera: 5MP</item>
+    </string-array>
+</resources>

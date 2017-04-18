@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="image_phone">
+        <item>@drawable/google</item>
+        <item>@drawable/htc</item>
+        <item>@drawable/iphone</item>
+        <item>@drawable/iphoneplus</item>
+        <item>@drawable/lgg5</item>
+        <item>@drawable/motorola</item>
+        <item>@drawable/motoz</item>
+        <item>@drawable/oneplus</item>
+        <item>@drawable/samsung</item>
+        <item>@drawable/samsungedge</item>
+    </integer-array>
+</resources>
